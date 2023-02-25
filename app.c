@@ -22,7 +22,7 @@ int main (){
     result = 2023 - age;
 
     printf("Hello %s,\n", name);
-     printf("You are %d years old.\n", result);
+    printf("You are %d years old.\n", result);
 
 
 
